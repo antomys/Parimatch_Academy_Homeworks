@@ -1,0 +1,19 @@
+﻿[{
+  "primesFrom": 1,
+  "primesTo": 10
+},
+  {"primesFrom": 10,
+    "primesTo": 20
+  },
+  {"primesFrom": 20,
+    "primesTo": 30
+  },
+  {"primesFrom": 10,
+    "primesTo": 40
+  },
+  {"primesFrom": 40,
+    "primesTo": 60
+  },
+  {"primesFrom": 60,
+    "primesTo": 100
+  }]
